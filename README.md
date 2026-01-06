@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**nayankewlani/nayankewlani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Nayan 👋
 
-Here are some ideas to get you started:
+### Aspiring Java Backend Developer | Former Retail Business Owner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am learning and building Java-based applications with a focus on
+real-world problem solving, object-oriented programming, and clean code.
+
+---
+
+## 🔧 Skills
+- Java
+- Object-Oriented Programming (OOP)
+- Data Structures (ArrayList, Arrays)
+- File Handling (CSV, TXT)
+- Git & GitHub
+- Console-based Application Design
+
+---
+
+## 📂 Projects
+- 🧾 **Inventory Management System** – Java console app to manage products and stock
+- 🎮 **Monster Fight Simulation** – OOP-based battle simulation
+- 🏎 **Race Simulation** – Vehicle and race logic simulation
+- 📊 **Student Score Processor** – File-based score processing
+
+---
+
+## 🎯 Current Focus
+- Writing clean, modular Java code
+- Improving problem-solving skills
+- Learning backend concepts
+
+---
+
+## 📫 Connect with Me
+- GitHub: https://github.com/nayankewlani
+
