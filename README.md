@@ -2,7 +2,7 @@
 
 # Hi, I'm Nayan 👋
 
-### Aspiring Java Backend Developer | Former Retail Business Owner
+### Aspiring Java and python Backend Developer | Former Retail Business Owner
 
 I am learning and building Java-based applications with a focus on
 real-world problem solving, object-oriented programming, and clean code.
@@ -11,9 +11,11 @@ real-world problem solving, object-oriented programming, and clean code.
 
 ## 🔧 Skills
 - Java
+- python
 - Object-Oriented Programming (OOP)
 - Data Structures (ArrayList, Arrays)
 - File Handling (CSV, TXT)
+- CLI Apps
 - Git & GitHub
 - Console-based Application Design
 
@@ -24,6 +26,7 @@ real-world problem solving, object-oriented programming, and clean code.
 - 🎮 **Monster Fight Simulation** – OOP-based battle simulation
 - 🏎 **Race Simulation** – Vehicle and race logic simulation
 - 📊 **Student Score Processor** – File-based score processing
+- 🎮 **Monster Fight Simulation using python** – battle simulation
 
 ---
 
